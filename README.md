@@ -75,7 +75,7 @@ Usa las **posiciones reales del simulador** (`controller.get_object_pose`) y la 
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/<usuario>/manipulacion-movil-asistencial-stretch
+git clone https://github.com/DiegoLopezitesm/manipulacion-movil-asistencial-stretch
 cd manipulacion-movil-asistencial-stretch
 
 # Instalar dependencias (requiere uv)
